@@ -3,5 +3,5 @@ public class sum{
     int i=10;
     int j=6;
 
-    system.out.println(i+j);
+    system.out.println{"the sum is"+(i+j);
 }
